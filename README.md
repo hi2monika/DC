@@ -1,21 +1,21 @@
-# Design crowd Test
+# DesignCrowd Technical Challenge
 
 # Architecture
-  - Its a light processing application 
+  - Light processing application 
   - Simple Architechure 
      - Model
      - Service 
      - Interface
      - Helper
-  - unit test (Xunit)
+  - Unit test (Xunit)
 TODO :
-- More Validation
-    - Validation for correct holiday list (complex Holiday structure )
-    - Valdation for user input (Ask user for correct input untill given)
-- Custome Exception handling 
-- More unit test.
+- Add more validations
+    - Validations for correct holiday list (complex holiday structure)
+    - Valdations for user input
+- Custom Exception handling 
+- More unit tests
 
-Note : For given Test case in Test ,Similar unit test are Added. 
+Note : For unit tests, used test data as provided in the test document. 
 
 
 
